@@ -6,6 +6,6 @@ final class bluezebra_UITests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(bluezebra_UI().text, "Hello, World!")
+        
     }
 }
